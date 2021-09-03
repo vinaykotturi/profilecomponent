@@ -11,7 +11,6 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 
 ## Overview
@@ -26,8 +25,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/vinaykotturi/profilecomponent)
+- Live Site URL: [Live site](https://vinaykotturi.github.io/profilecomponent/)
 
 ## My process
 -My initial process was creating HTML structure This is where I make mistakes. It seems simple at first, but If your HTML structure is not good then you can not apply css styles to your elements properly. Once I created the HTML structure then I focused on layouting the component. 
@@ -40,12 +39,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### What I learned
 - When I saw this desing on frontendmentor I thought it was easy, but when i started writing code I took more time than i expected mainly If you take any project from any resorses firstly we need to understand the structure of the desing we can't go strait writing code. This is what i learned from this project.
-### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@vinaykotturi](https://www.frontendmentor.io/profile/vinaykotturi)
+- Twitter - [@vinaykotturi](https://www.twitter.com/vinaykotturi)
